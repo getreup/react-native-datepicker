@@ -329,4 +329,4 @@ DatePicker.propTypes = {
   placeholder: React.PropTypes.string
 };
 
-export default DatePicker;
+module.exports = DatePicker;
